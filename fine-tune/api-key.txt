@@ -1,8 +1,0 @@
-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
-
-set OPENAI_API_KEY=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
-
-model id = ft-lixOVbK26YMfeIoTQW2oow7A
-
-
-openai api completions.create -m ada:ft-ktinformatik-2023-05-02-07-07-13 -p পরীক্ষিতভাবে
