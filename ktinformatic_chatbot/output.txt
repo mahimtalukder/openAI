@@ -204,3 +204,19 @@ Address: 121 Motijheel C/A, Jiban Bima Bhaban, Dhaka-1000
 
 Motijheel is the zero  point of Dhaka.
 
+KT Informatik Project charge:
+    1. One stranded database development price is $10
+    2. One High-end database price is $20
+    3. One e-commerce software building price is $100
+
+    With this money we will add this amount:
+    1. Per day employee cost is $5
+    2. Per day other cost is $1
+
+    Time need for database build:
+    1. one stranded database needs 2 days
+    2. one High-end database needs 5 days.
+
+    The time need for e-commerce software build is 12 days.
+
+

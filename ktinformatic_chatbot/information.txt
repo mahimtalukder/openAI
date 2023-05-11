@@ -1,0 +1,5 @@
+set OPENAI_API_KEY=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
+
+openai api fine_tunes.create -t qna_dataset_prepared.jsonl -m davinci
+ada:ft-ktinformatik-2023-05-10-08-34-29
+openai api completions.create -m davinci:ft-ktinformatik-2023-05-10-06-43-28 -p <YOUR_PROMPT>

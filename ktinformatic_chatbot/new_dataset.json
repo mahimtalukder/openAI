@@ -1,0 +1,104 @@
+[
+  {
+    "company_name": "KT Informatik",
+    "foundation_year": 2022,
+    "founders": 2,
+    "office_locations": 2,
+    "countries_served": 3,
+    "mission_statement": "By empowering people and communities through our actions and what we do together, we make a positive impact beyond our own business and those of our clients.",
+    "team_experience": "Experienced team members from various renowned companies.",
+    "approach": "Result-oriented with a focus on small plans executed weekly for instant results.",
+    "services": [
+      "IT & Business Consultation",
+      "Data Analysis & Prediction",
+      "Software & Mobile Solution",
+      "Cyber Security & Cloud  Base",
+      "AI & Business Automation",
+      "IoT & Digital Engineering"
+    ],
+    "sectors": [
+      "Automotive Services",
+      "Aviation",
+      "E-Commerce",
+      "Education",
+      "Fintech",
+      "Healthcare",
+      "Human Resources",
+      "Real Estate",
+      "Retail Services",
+      "Startup Services"
+    ],
+    "consultancy_services": [
+      "AI & Business Automation",
+      "SQA",
+      "Data Analysis & Prediction",
+      "CyberSecurity"
+    ],
+    "client_testimonials": [
+      {
+        "client_name": "Rashedul Haider Choudhury",
+        "client_position": "CEO, Strenna Inc.",
+        "testimonial": "We are happy to receive help from KT Informatik. They helped us from the initial market analysis to capture user base. Not but the least we are enjoying the software solution They Provided us."
+      },
+      {
+        "client_name": "Zahedul Islam",
+        "client_position": "Co Founder, SSFB",
+        "testimonial": "When we contacted KT Informatik, when we needed an accounting and inventory application badly to grow our business. They took immediate action and had our systems online within a short time. They also built our front facing Website."
+      },
+      {
+        "client_name": "Iqbal Hossain",
+        "client_position": "Business Owner, Amazon FBA",
+        "testimonial": "The Insights we received from KT Informatik experts were not only helpful but also game-changing decisions. We did not know that we have this much essential data."
+      }
+    ],
+    "contact_info": {
+      "email": "contact@ktinformatik.com",
+      "phone": "+1 (343) 700-0633",
+      "address": "Unit-20, 2169 Elmira Dr. Ottawa, Canada"
+    },
+    "social_media": {
+      "facebook": "https://www.facebook.com/ktinformatik/",
+      "twitter": "https://twitter.com/ktinformatik",
+      "instagram": "https://www.instagram.com/ktinformatik/",
+      "linkedin": "https://www.linkedin.com/company/kt-informatik/"
+    },
+    "offices": [
+      {
+        "country": "Canada",
+        "address": "Unit-20, 2169 Elmira Dr. Ottawa, Canada",
+        "phone": "+1 (343) 700-0633"
+      },
+      {
+        "country": "Bangladesh",
+        "address": "121 Motijheel C/A, Jiban Bima Bhaban, Dhaka-1000",
+        "phone": "+880 (177) -556-8572"
+      }
+    ],
+    "company_origin": "Canada and Bangladesh",
+    "company_motto": "To help our clients to grow so that we can shine.",
+    "company_vision": "Started with the vision of two dreamers, aiming to provide the best IT solutions to clients.",
+    "company_history": "Started in a small basement of a Canadian House with tech brains from both Canada and Bangladesh.",
+    "business_growth_partnership_benefits": [
+      "AI & Software Tools",
+      "Human Resources",
+      "Protecting Data",
+      "Business Privacy",
+      "Software Development",
+      "IOT & Digital Engineering",
+      "Cyber Security"
+    ],
+    "data_collection_and_research": {
+      "data_collection": "Collecting and storing data everyday from different markets and sources.",
+      "geography_and_userbase_knowledge": "Detailed knowledge of the Canada and Bangladesh area mapping, and multi-age user information with their need and liking.",
+      "custom_solution_creation": "Creating custom solutions based on captured information and insights."
+    },
+    "service_description": {
+      "IT_and_Business_Consultation": "Providing consultation services in IT and business to ensure growth.",
+      "Data_Analysis_and_Prediction": "Analyzing and predicting data trends for better business decisions.",
+      "Software_and_Mobile_Solution": "Delivering software and mobile solutions tailored to business needs.",
+      "Cyber_Security_and_Cloud_Base": "Ensuring cybersecurity and providing cloud-based solutions.",
+      "AI_and_Business_Automation": "Implementing AI and automating business processes for efficiency.",
+      "IoT_and_Digital_Engineering": "Providing services in IoT and digital engineering for technological advancement."
+    }
+  }
+]
